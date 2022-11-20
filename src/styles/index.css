@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url("../img/bg.jpeg") no-repeat center center fixed;
+    background-size: cover;
+}
+#game{
+    width: 50%;
+    margin: 50px auto;
+}
